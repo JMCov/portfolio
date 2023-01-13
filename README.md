@@ -1,3 +1,3 @@
-# Modify this portfolio
+# Jordan Covington's Portfolio
 
-Make it your own! 
+[My Portfolio](https://jmcov-portfolio.netlify.app/)
