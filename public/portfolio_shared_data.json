@@ -1,17 +1,17 @@
 {
     "basic_info": {
       "name": "Jordan Covington",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Coding Original Ideas" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/JMCov",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedIn",
+          "url": "https://www.linkedin.com/in/jordan-covington-05583a257/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"
