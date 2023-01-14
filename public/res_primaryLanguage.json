@@ -11,22 +11,20 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Word Rummage",
+        "startDate": "2022",
+        "description": "What if the classic word search had a hard mode? Word Rummage's goal is to make word search more difficult yet more fun by setting a timer, rounds, score and an expanding board that only stops growing when you time out.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/animal-shelter/Pic1.PNG",
+          "images/portfolio/animal-shelter/pic2.PNG",
+          "images/portfolio/animal-shelter/pic3.PNG"
         ],
         "url": "",
         "technologies": [
+          
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
             "class": "devicon-csharp-plain",
